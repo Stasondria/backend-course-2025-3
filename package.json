@@ -1,20 +1,12 @@
 {
-  "name": "bc2025-3",
+  "name": "backend-course-2025-3",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Lab 3 - Practice with Node.js and JSON (variant 4)",
+  "main": "main.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Stasondria/backend-course-2025-3.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Stasondria/backend-course-2025-3/issues"
-  },
-  "homepage": "https://github.com/Stasondria/backend-course-2025-3#readme"
+  "author": "ТвоєІм’я bc2025-3",
+  "license": "ISC"
 }
