@@ -8,5 +8,11 @@
     "start": "node main.js"
   },
   "author": "ТвоєІм’я bc2025-3",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.37.0"
+  },
+  "dependencies": {
+    "commander": "^14.0.1"
+  }
 }
